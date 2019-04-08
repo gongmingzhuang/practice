@@ -1,0 +1,5 @@
+Class Tmp{
+public static void main(String [] args){
+System.out.println("hello world"); //create in 2019/04/08 20:40
+}
+}
