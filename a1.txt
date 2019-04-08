@@ -1,7 +1,13 @@
 console.log("hello world");
 
 // i had modified in 2019-04-08
+<<<<<<< HEAD
 
 //this is modify version.
 
 // modify by evan
+=======
+//this is modify version.
+//this is second modify.
+
+>>>>>>> d675f4d6e66c6ae805160afde244254d2bed8fb6
