@@ -1,3 +1,7 @@
 console.log("hello world");
 
+<<<<<<< HEAD
 // i had modified in 2019-04-08
+=======
+//this is modify version.
+>>>>>>> 3865b090058f744c6719872a8ec5b90233170b7f
